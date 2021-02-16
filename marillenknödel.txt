@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 Haha, jetzt bin ich dir zuvorgekommen!! :)
+=======
+Marillenknödel
+
+Zutaten
+Wasser
+Mehl
+Salz
+Zucker
+Marillen
+Topfen
+>>>>>>> 6c6792212830df1ebbc20ddbb2a8e269c131db85
